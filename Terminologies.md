@@ -51,3 +51,48 @@ The Low-Hanging Fruit Principle (or Increasing Opportunity Cost) states that in 
 The CPC represents all possible combinations of bananas and rabbits that the economy can feasibly consume when it is open to international trade.
 
 It is important to keep in mind that a change in the international price can change the CPC.
+
+## Sunk Cost
+A sunk cost is a cost that once paid cannot be recovered.
+
+An example of sunk cost is the loan.
+
+## Fixed Factor of Production
+If a factor of production is fixed, then the cost associated with it does not vary with the quantity produced.
+
+## Fixed Cost
+A fixed cost is a cost associated with a fixed factor of production.
+
+## Short Run
+short run denotes a period of time during which at least of one factor of production is fixed.
+
+## Variable Factor of Production
+If a factor of production is variable, then the cost associated with it tends to vary with the number of units produced.
+
+## Variable Cost
+A variable cost is a cost associated with a variable factor of production
+
+## Long Run
+long run denotes a period of time during which all factors of production are variable.
+
+## Profit
+Profit represents the difference between the total revenues (TR) and the total costs (TC).
+
+## Shut Down Condition (short run)
+In the short run, the entrepreneur should shut down production if total production is less than -FC. Otherwise, hte entrepreneur should hire the optimal number of workers and continue operations.
+
+## Exit Condition (long run)
+In the long run, the entreprenuer should exit the industry if the total production is less than 0. Otherwise, the entreprenuer should hire the optimal number of workers and continue operations.
+
+## Formulas
+Marginal Cost = change of Total Cost / change of Total Quantity
+
+Variable Cost = Total Cost - Fixed Cost
+
+Average Variable Cost = Variable Cost / total quantity
+
+Average Total Cost = Total cost / total quantity
+
+In the long run to make sure the business is still open, the price has to be at least average total cost.
+
+In the short run to make sure the business is open, the price has to be at least average variable cost.
