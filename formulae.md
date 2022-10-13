@@ -5,7 +5,9 @@ Marginal cost = change of total cost / change of quantity
 
 Elasticity = (change of quantity / quantity) / (change of price / price)
 or 
-Elasticity = P/Q * (1/slope)
+Elasticity = Price/Quantity * (1/slope)
+
+And slope: slope = rise/run
 
 ## Principles
 ### Cost-Benefit Principle
