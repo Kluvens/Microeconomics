@@ -84,6 +84,53 @@ In the short run, the entrepreneur should shut down production if total producti
 ## Exit Condition (long run)
 In the long run, the entreprenuer should exit the industry if the total production is less than 0. Otherwise, the entreprenuer should hire the optimal number of workers and continue operations.
 
+## Oligopoly
+oligopoly markets are markets dominated by a small number of suppliers.
+
+## Game Theory
+it is a branch of applied mathematics that provides tools for analyzing situations in which parties, called players, make decisions that are interdependent.
+
+## Dominant Strategy
+No matter what the other palyer is doing, this strategy is always better than other strategies that I can do.
+
+## Acting rationally
+each player wants to maximise its profits
+
+## Iterated Elimination of Dominated Strategies
+it is solution concept that involves iteratively removing strategies that are not dominant.
+
+## Prisoner's Dilemma Game
+it is a type of game where firms might decide not to cooperate even though doing so would be benenficial to both of them.
+
+Both players may have the same dominant strategy.
+
+## Cartel Game
+A cartel is aimed at increasing the profit of the cartel members by reducing competition in the market.
+A cartel agreement achieves this objective by controlling prices or by preventing new competitors from entering the market.
+
+Usually cartel is illegal and is prohibited under competition law - 
+a law that is intended to foster market competition by regulating anti-competitive conduct by firms.
+The final objective of this type of legislation is to ensure that consumers are charged the lowest possible prices.
+
+## Anti-trust
+antitrust refers to the regulation of the concentration of economic power, particularly in regard to monopolies and other anticompetitive practices.
+
+## Coordination Game
+It is a type of game that captures those situations where the players benefit from coordinating their decisions.
+
+There are no dominant strategies.
+
+It describes the situation where a player will earn a higher payoff when they select the same course of action as another player.
+
+In coordination game, there are two or more nash equilibriums.
+
+## Strategy Profile
+it denotes a set of strategies, one for each player.
+The payoffs corresponding to each strategy profile are presented in cells.
+
+## Nash Equilibrium
+A strategy profile is a Nash Equilibrium if no player can benefit from unilaterally changing her strategy.
+
 ## Formulas
 Marginal Cost = change of Total Cost / change of Total Quantity
 
