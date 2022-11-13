@@ -365,6 +365,41 @@ The private supply curve invorporates less costs.
 ## Privatization
 It occurs when a government-owned business, operation, or property becomes owned by a private, non-government party.
 
+## Pure Public Goods
+Pure public goods represent goods that are perfectly non-rivalrous and non-excludable.
+
+## Non-rivalry
+one individual's consumption of the good does not impede another individual from consuming it as well;
+the marginal cost of providing the public good to an additional individual is equal to 0.
+
+## Non-Excludability
+No one can be excluded from consuming the good
+
+## Impure Public Goods
+Impure public goods represent goods that are non-rivalrous and non-excludable only up to a point.
+
+## Marginal Social Benefit
+The marginal Social Benefit is the vertical sum of the individual marginal benefits.
+
+## Samuelson Condition
+The samuelson condition states that the efficient quantity of a public good is found by setting the sum of the individual marginal benefits equal to the marginal cost.
+
+## Free market
+A free market is an economic system in which the prices of goods and services are determined by supply and demand expressed by sellers and buyers.
+
+## Free-Riding
+Free-riding denotes the action of enjoying a good without paying for it.
+The free-riding problem is caused by the non-exludable nature of public goods and it results in their under-provision.
+
+## Lindahl Prices Structure
+Lindahl Prices imply that each individual pays for the provision of a public good according to their marginal benefit.
+
+## Public Goods and Externalities
+A public good is an extreme case of positive externality.
+
+Like with a positive externality, no one can be excluded from benefiting from the good.
+By extreme case, we mean that, unlike a standard externality, the benefit accrued to those who enjoy the public good does not depend on who is providing it; indeed, this is another way of defining non-rivalry.
+
 ## Formulas
 Marginal Cost = change of Total Cost / change of Total Quantity
 
