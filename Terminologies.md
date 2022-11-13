@@ -189,6 +189,44 @@ In Australia, there are several examples of this form of market structure.
 The media outlet industry (dominated by News Corporation, Time Warner and Fairfax Media), the grocery retailing (dominated by Coles Group and Woolworths) and the banking sector (dominated by ANZ, Westpac, NAB, and Commonwealth Bank). 
 In the United States, the movie industry is dominated by six major studios who receive almost the entirety of American film revenues.
 
+## Invisible Hand Principle
+The invisible hand principle suggests a simple mechanism that eliminates market power:
+whenever firms make profits, some new firms will be willing to enter the market and commence production of the same good.
+The entry process will continue until the firms in the market make 0 profit and are essentially left with no market power.
+
+## Barriers to entry
+Barriers to entry is an economics and business term describing factors that can prevent or impede newcomers into a market or industry sector, and so limit competition.
+
+Some major barriers to entry:
+1. Control over scare resources
+2. Government-created barriers to entry
+3. Increasing returns to scale
+4. Network economies
+
+## Increasing Returns to Scale
+There are increasing returns to scale when the average total cost of producing a certain good decreases with the amount of the good produced.
+
+## Network Economies
+Also called the network effect, is the phenomenon by which the value or utility a user derives from a good or service depends on the number of users of compatible products.
+
+## Natural Monopoly
+A natural monopoly denotes a monopoly that occurs because of increasing returns to scale.
+
+![image](https://user-images.githubusercontent.com/95273765/201508023-f440ce3e-7852-4d5d-84c6-bb75da0b1ec0.png)
+
+## Monopoly
+Monopoly is a market structure where there is only one firm operating in the market.
+
+The profit-maximizing choice for the monopoly will be to produce at the quantity where marginal revenue is equal to marginal cost: that is, MR = MC.
+
+The monopolist will continue to produce as long as the marginal revenue is at least as large as the marginal cost. That is, MR >= MC.
+
+To reach the socially optimal level of output, the monopolist must produce as long as P >= MC.
+
+The deadweight loss in monopoly:
+
+![image](https://user-images.githubusercontent.com/95273765/201508515-57bba71a-f4ce-4f23-b1fa-9cef4d3112d3.png)
+
 ## Oligopoly
 oligopoly markets are markets dominated by a small number of suppliers.
 
