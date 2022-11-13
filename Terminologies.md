@@ -227,6 +227,31 @@ The deadweight loss in monopoly:
 
 ![image](https://user-images.githubusercontent.com/95273765/201508515-57bba71a-f4ce-4f23-b1fa-9cef4d3112d3.png)
 
+The monopolist maximizes profit by equating marginal revenue with marginal cost.
+
+![image](https://user-images.githubusercontent.com/95273765/201509041-fca113cc-4130-4ec2-a9ff-71a716fe324d.png)
+
+## Competition Law
+Competition Law denotes laws intended to foster market competition by regulating the anti-competitive conduct of firms.
+
+## Average Cost Pricing
+The Average Cost Pricing denotes a policy through which the government forces the monopolist to set the price and quantity at the intersection of the ATCATC curve and the demand curve.
+
+However, average cost pricing is hard to implement because:
+1. government does not know the ATCATC, it can only estimate them,
+2. once this policy is in place, firms have no incentive to invest in new technology to lower their production costs — they make zero profit either way,
+3. when the government uses average cost pricing, the firm’s output is allocatively inefficient. This is due to the fact that the price usually exceeds the marginal cost.
+
+## Allocatively Inefficient
+A firm’s output is said to be Allocatively Inefficient if the price asked for the goods produced exceeds their marginal cost.
+
+## First Degree Price Discrimination
+First degree price discrimination describes a situation in which the monopolist knows the reservation price of each consumer and is able to charge each consumer his marginal benefit.
+
+## Reservation Price
+it is the minimum amount that a seller will accept as the winning bid.
+Alternatively, it is less commonly known as the highest price a buyer is willing to pay for a good or service.
+
 ## Oligopoly
 oligopoly markets are markets dominated by a small number of suppliers.
 
