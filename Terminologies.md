@@ -147,6 +147,48 @@ However, the revenue earned by the government now would flow to the importing ag
 
 The World Trade Organization (WTO) has asked its members to convert their trade restrictions from quotas to tariffs because there is less transparency in how the surplus from a quota is distributed.
 
+## Price Makers
+It is a seller that has enough market and pricing power to influence prices within the market.
+In such a case, market and pricing power is determined by the ability of a business to change the prices of products and services effectively.
+
+## Price Takers
+A price taker is an individual or company that must accept prevailing prices in a market, lacking the market share to influence market price on its own.
+
+Due to market competition, most producers are also price-takers.
+
+## Market Power
+A firm has market power if it has the ability to set its own price.
+
+A firm with market power can change their price to some extent without losing all their consumers.
+This means that the demand curve they face is not perfectly elastic (horizontal);
+rather, it must be downward sloping.
+
+## Imperfectly Competitive Market
+Is a market where that at least one of the characteristics of a perfectly competitive market fails to be satisfied.
+
+There are three main forms of imperfectly competitive markets:
+1. Monopoly
+2. Monopolistic competition
+3. Oligopolistic competition
+
+## Monopoly
+There is only one firm in the market. Hence, the firm’s individual demand curve coincides with the market demand curve. 
+One of the most famous example of monopoly is Microsoft and its most notorious operating system Windows, which is essentially the only operating system in the whole market for personal computers.
+
+## Monopolistic Competition
+There is a large number of firms, each producing a slightly differentiated product. One example is the restaurant industry. 
+An Italian restaurant offers a similar product compared to a Japanese restaurant (i.e., food), but they don’t offer exactly the same type of food. 
+This provides a measure of market power, where the Italian restaurant can increase the price without losing all its sales because Italian and Japanese food are not perfect substitutes. 
+Another example is the competitive structure in which petrol stations operate. 
+At first glance, it appears that every petrol station sells the same product — petrol. However, each one has a different location and some of them offer special services like car-wash facilities and bars. This differentiates the service they offer. 
+If the petrol station located in the vicinity of your home increases its price, you might continue to go there because driving to the next one might not be worth the effort.
+
+## Oligopolistic Competition
+There is a small number of firms that sell goods that are close substitutes. 
+In Australia, there are several examples of this form of market structure. 
+The media outlet industry (dominated by News Corporation, Time Warner and Fairfax Media), the grocery retailing (dominated by Coles Group and Woolworths) and the banking sector (dominated by ANZ, Westpac, NAB, and Commonwealth Bank). 
+In the United States, the movie industry is dominated by six major studios who receive almost the entirety of American film revenues.
+
 ## Oligopoly
 oligopoly markets are markets dominated by a small number of suppliers.
 
