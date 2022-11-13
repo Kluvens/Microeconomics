@@ -252,6 +252,13 @@ First degree price discrimination describes a situation in which the monopolist 
 it is the minimum amount that a seller will accept as the winning bid.
 Alternatively, it is less commonly known as the highest price a buyer is willing to pay for a good or service.
 
+## Second Degree Price Discrimination
+Second-degree price discrimination involves charging consumers a different price for the amount or quantity consumed.
+
+## Third Degree Price Discrimination
+Third-degree price discrimination occurs when a company charges a different price to different consumer groups. 
+For example, a theater may divide moviegoers into seniors, adults, and children, each paying a different price when seeing the same movie. This discrimination is the most common.
+
 ## Oligopoly
 oligopoly markets are markets dominated by a small number of suppliers.
 
