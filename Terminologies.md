@@ -13,6 +13,8 @@ The production possibilities curve (PPC) is a graph that shows all of the differ
 
 More generally, the PPC captures all maximum output possibilities for two (or more) goods, given a set of inputs (or resources - i.e., time) if inputs are used efficiently.
 
+![image](https://user-images.githubusercontent.com/95273765/201515380-872ea4b9-c839-4e7d-a581-2ca657ec181b.png)
+
 ## Efficient points
 We call the points on the PPC efficient points.
 
@@ -35,6 +37,8 @@ When calculating opportunity cost, you need to consider the unique direct costs 
 
 A simple example calculating the opportunity cost: OC bananas = loss in rabbit / gain in bananas.
 
+OC of one good = loss in the other good/gain in this good
+
 ## Comparative advantage
 An economy has a comparative advantage in a productive activity when he/she has a lower opportunity cost of carrying on that activity than another economy.
 
@@ -51,6 +55,13 @@ The Low-Hanging Fruit Principle (or Increasing Opportunity Cost) states that in 
 The CPC represents all possible combinations of bananas and rabbits that the economy can feasibly consume when it is open to international trade.
 
 It is important to keep in mind that a change in the international price can change the CPC.
+
+## Economy-wide PPC in a Many-Agent Economy
+We exhaust the person with lowest opportunity cost and then exhuast the person with the next lowest opportunity cost.
+
+![image](https://user-images.githubusercontent.com/95273765/201515497-382c4635-1bcf-413f-9874-befd2e143667.png)
+
+The slope is increasing since the opportunity cost is increasing.
 
 ## Sunk Cost
 A sunk cost is a cost that once paid cannot be recovered.
@@ -83,6 +94,94 @@ In the short run, the entrepreneur should shut down production if total producti
 
 ## Exit Condition (long run)
 In the long run, the entreprenuer should exit the industry if the total production is less than 0. Otherwise, the entreprenuer should hire the optimal number of workers and continue operations.
+
+## The production costs in a continuous model
+![image](https://user-images.githubusercontent.com/95273765/201515584-423823ee-da15-46a7-a594-507fe3f8cc24.png)
+
+## Shifts of curve
+Price will not shift the curve.
+
+Factors shifting the supply curve:
+1. technology
+2. input prices
+3. expectations
+4. changes in pricing for other products
+5. number of suppliers
+
+Factors shifting the demand curve:
+1. change in the taste
+2. population
+3. income
+4. prices of substitute or complement goods
+5. expectations
+
+## Price Elasticity of Supply
+Price elasticity of supply denotes the precentage change in the quantity supplied resulting from a very small percentage change in price.
+
+Elasticity of A = (quantity change/quantity of A)/(price change/price of A).
+
+Elasticity of A = price of A/quantity of A * 1/slope.
+
+## Law of Supply
+Supply curves have the tendency of being upward sloping.
+
+## Elastic Supply
+Supply is elastic when the price elasticity of supply is greater than 1.
+
+## Perfectly Elastic Supply
+Supply is perfectly elastic if price elasticity of supply is infinte.
+
+## Unit Elastic Supply
+Supply is unit elastic when the price elasticity of supply is equal to 11.
+
+## Inelastic Supply
+Supply is inelastic when the price elasticity of supply is less than 11.
+
+## Perfectly Inelastic Supply
+Supply is perfectly inelastic if price elasticity of supply is zero.
+
+## Determinants of Price Elasticity of Supply
+factors that could change the elasticity of supply:
+1. availability of raw materials
+2. factors mobility
+3. inventories/excess capacity
+4. time horizon
+
+## Inventory
+The term invntory refers to the raw materials used in production as well as the goods produced that are available for sale.
+
+## Utility
+Utility denotes the satisfaction that an individual derives from consuming a given good or taking a certain action. It is measured in utils per unit of time.
+
+## Decreasing Marginal Utility
+Decreasing Marginal Utility implies that the utility from consuming an extra unit of a given good decreases with the number of units that have been previously consumed.
+
+## Quantity Demanded
+Quantity Demanded represents the quantity of a given good or service that maximizes the utility experienced by the individual consuming it.
+
+## Giffen Goods
+Giffen good is an exception to the law of demand as an increase in price increases the quantity demanded.
+
+## Substitution Effect
+The substitution effect captures the change in the quantity demanded of a given good following a change in its relative price.
+
+## Income Effect
+The income effect captures the changes in the quantity demanded of a given good following the reduction in the consumer's purchasing power.
+
+## Law of Demand
+demand curves have the tendency of being downward sloping
+
+## Demand Curve
+Demand curve represents the relationship between the price of a good or service and the quantity demanded of that good or service.
+
+## Horizontal Interpretation of the Demand Curve
+Start from a certain price and find the associated quantity on the demand curve. The quantity you found indicates how many units the consumer is willing to buy at that price.
+
+## Vertical Interpretation of the Demand Curve
+Start from a certain quantity (say 2 units) and find the associated price on the demand curve. The price you found indicates the maximum amount of money the consumer is willing to pay for the marginal unit (in our example the marginal unit would be the 2nd unit).
+
+## Consumer Reservation Price or Willingness to Pay
+Consumer Reservation Price (or Willingness to Pay) denotes the maximum amount of money an individual is willing to pay for a certain good or service.
 
 ## Closed Economy
 it is an economy that does not engage in international trade.
@@ -399,6 +498,31 @@ A public good is an extreme case of positive externality.
 
 Like with a positive externality, no one can be excluded from benefiting from the good.
 By extreme case, we mean that, unlike a standard externality, the benefit accrued to those who enjoy the public good does not depend on who is providing it; indeed, this is another way of defining non-rivalry.
+
+## Economies of Scale
+economies of scale are the cost advantages that enterprises obtain due to their scale of operation, and are typically measured by the amount of output produced per unit of time.
+
+## Diseconomies of Scale
+diseconomies of scale are the cost disadvantages that economic actors accrue due to an increase in organizational size or in output, resulting in production of goods and services at increased per-unit costs.
+
+## Capital
+capital goods or capital are "those durable produced goods that are in turn used as productive inputs for further production" of goods and services.
+
+## Capital Intensive
+business processes or industries that require large amounts of investment to produce a good or service and thus have a high percentage of fixed assets, such as property, plant, and equipment (PP&E).
+
+Companies in capital-intensive industries are often marked by high levels of depreciation.
+
+## Consumer Sovereignty
+Consumer sovereignty is the economic concept that the consumer has some controlling power over goods that are produced, and the idea that the consumer is the best judge of their own welfare.
+
+It also refers to the freedom of consumers to make their own decisions about which goods and services to buy.
+
+## Enterprise
+any entity engaged in an economic activity, irrespective of its legal form.
+
+## Fair Return Price
+Price is equal to its average total cost, which results in a normal profit.
 
 ## Formulas
 Marginal Cost = change of Total Cost / change of Total Quantity
