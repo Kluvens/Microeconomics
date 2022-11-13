@@ -306,6 +306,65 @@ The payoffs corresponding to each strategy profile are presented in cells.
 ## Nash Equilibrium
 A strategy profile is a Nash Equilibrium if no player can benefit from unilaterally changing her strategy.
 
+## Externalities
+Externalities refers to situations when the effect of production or consumption of goods and services imposes costs or benefits on others which are not reflected in the prices charged for the goods and services being provided.
+
+There are four different types of externalities:
+- positive consumption
+- positive production
+- negative consumption
+- negative production
+
+## Positive Consumption Externality
+It represents a benefit accrued to someone who is not involved in the consumption of a given good.
+
+Examples of positive consumption externality:
+1. fitness activities - reduce health care costs
+2. vaccinations
+3. bike to work - reduce traffic congestion and pollution
+4. social networking - happiness
+5. fire protection services - reduce likelihood to spread fire to other homes
+
+## Coase Theorem
+If trade in an externality is possible and there are no transaction costs, bargaining will lead to an efficient outcome regardless of the initial allocation of property rights.
+
+## Negative Production Externality
+It represents a cost incurred by someone who is not involved in the production of a given good.
+
+Examples of negative production externality:
+1. harmful production activities - inadequate technologies can impose pollution
+2. excessive risk-taking - can kickstart global financial crises
+3. over-fishing - by engaging in over-fishing, firms run the risk of depleting the stock of fish in the ocean
+
+![image](https://user-images.githubusercontent.com/95273765/201511916-6ae3cc66-08d4-4b94-b1eb-874aad354071.png)
+
+![image](https://user-images.githubusercontent.com/95273765/201511975-f3696622-80ef-41ae-877d-a2831b041ee8.png)
+
+## Negative Consumption Externality
+A Negative Consumption Externality represents a cost incurred by someone who is not involved in the consumption of a given good.
+
+Examples of negative consumption externality:
+1. smoking
+2. alcohol abuse
+3. driving
+
+## Positive Production Externality
+A Positive Production Externality represents a benefit accrued to someone who is not involved in the production of a given good.
+
+Examples of positive production externality:
+1. beneficial production activities: 
+2. new production technologies
+3. on-the-job training
+
+## Social supply
+If a firm is forced to pay its additional externality costs, production becomes more costly, and the social supply curve will shift up.
+
+## Private supply
+The private supply curve invorporates less costs.
+
+## Privatization
+It occurs when a government-owned business, operation, or property becomes owned by a private, non-government party.
+
 ## Formulas
 Marginal Cost = change of Total Cost / change of Total Quantity
 
