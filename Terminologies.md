@@ -84,6 +84,69 @@ In the short run, the entrepreneur should shut down production if total producti
 ## Exit Condition (long run)
 In the long run, the entreprenuer should exit the industry if the total production is less than 0. Otherwise, the entreprenuer should hire the optimal number of workers and continue operations.
 
+## Closed Economy
+it is an economy that does not engage in international trade.
+Also known as autarky.
+
+## Open Economy
+it is an economy taht engages in international trade.
+
+## Gains from Trade
+It captures the extra total surplus available in an open economy situation compared to a closed economy.
+
+These gains from trade come from international consumers who have a relatively high demand for our rabbits.
+
+![image](https://user-images.githubusercontent.com/95273765/201504356-6e99b4e7-d7d7-4f20-b732-90a11425721c.png)
+
+The pink area is the increase of total surplus.
+
+![image](https://user-images.githubusercontent.com/95273765/201504413-64efdf29-a786-4e18-989e-4937b2565389.png)
+
+This pink area also indicates the gains from trade (increase of total surplus).
+
+## Winners and Losers from International Trade
+Domestic consumers lose surplus when their country starts to export the good in question and domestic producers lose surplus when their country starts to import.
+
+So the consumers in the first case or the producers in the second case may lobby the government to restrict free trade.
+
+Because the gains from trade are often thinly spread over many consumers but the losses are felt strongly by a small group of producers (domestic producers).
+
+## Trade Restrictions
+They are artificial restrictions on the trade of goods and/or services between two countries.
+It is the byproduct of protectionism.
+
+## Protectionism
+It is the economic policy of restricting imports from other countries through methods such as tariffs on imported goods, import quotas, and a variaty of other government regulations.
+
+## Import Tariff
+It represents a tax on imported goods or services.
+
+![image](https://user-images.githubusercontent.com/95273765/201505967-3bdccec7-0ba8-4369-9f33-2a716b5e44c7.png)
+
+The green area is the gains of domestic producers and pink area is the revenues of the government.
+
+The consumer surplus would decrease by area H+I+J+K, and producer surplus would increase by H.
+
+![image](https://user-images.githubusercontent.com/95273765/201506008-598409d2-4115-4e75-ac12-193ee71eb0ae.png)
+
+The pink areas are deadweight losses.
+
+## Deadweight Loss
+It is a cost to society created by market inefficiently, which occurs when supply and demand are out of equilibrium.
+
+## Imported Quota
+It represents a quantity limit on the amount of goods or service permitted to be imported.
+
+![image](https://user-images.githubusercontent.com/95273765/201506180-0f007277-2fa3-48ce-8bba-1ea55f661006.png)
+
+The total supply curve would shift to the right as there are some imported goods.
+Then the equilibrium price would decrease.
+
+The areas of surplus affected are the same as tariff.
+However, the revenue earned by the government now would flow to the importing agents.
+
+The World Trade Organization (WTO) has asked its members to convert their trade restrictions from quotas to tariffs because there is less transparency in how the surplus from a quota is distributed.
+
 ## Oligopoly
 oligopoly markets are markets dominated by a small number of suppliers.
 
