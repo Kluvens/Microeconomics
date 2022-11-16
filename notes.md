@@ -1,5 +1,6 @@
 ## Unanswered
 1. page 10 Quiz_Ch2_Supply Elasticity Determinants4
+2. page 16 Quiz_Ch3_Measuring Elasticity
 
 ## Chapter 1
 Absolute advantage: carry activities with the lowest amount of resources
