@@ -81,3 +81,21 @@ The long run denotes a period of time during which all factors of production are
 The short-run supply curve for a profit maximising firm in a perfectly competitive market is the portion of the firm’s marginal cost curve that lies above the minimum average variable cost curve.
 
 If the unit for calculating price elasticity is decreasing from hundreds to thousands, the price elasticity of supply would decrease.
+
+Firms in perfect competition profit maximise by producing a quantity where P = MC.
+Using the vertical interpretation of the supply curve, the price is the minimum amount of money the producer is willing to accept to offer the marginal unit.
+
+A vertical interpretation of the supply curve is where you determine the minimum price the producer is willing to receive (reservation price) for the marginal unit.
+
+## Chapter 3
+The consumer reservation price is the maximum amount a consumer is willing to pay for a certain good or service.
+
+The definition of a substitute is that if the price of one good increases, the quantity of the other must increase.
+
+The horizontal interpretation of the demand curve shows how many units a consumer is willing to buy at that price on the demand curve.
+
+Factors that can increase the elasticity of demand:
+1. an increase the availability of substitutes
+2. a narrowing of the definition of the good
+3. an increase in the income share of the good
+4. an increase in the time horizon
