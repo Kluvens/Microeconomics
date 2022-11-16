@@ -42,6 +42,7 @@ The location of the market is irrelevant in defining the market.
 3. VC = AVC * Q
 4. MC = change in TC/change in Q
 5. Revenue = P * Q
+6. elasticity = price/quantity * 1/slope
 
 The economic surplus of a certain action is the difference between the marginal benefit and the marginal cost of taking that action.
 Using the cost-benefit principle, an agent should take the action as long as the economic surplus is greater than or equal to 0.
@@ -78,3 +79,5 @@ Short run denotes a period of time during which at least one of the factors of p
 The long run denotes a period of time during which all factors of production are variable.
 
 The short-run supply curve for a profit maximising firm in a perfectly competitive market is the portion of the firm’s marginal cost curve that lies above the minimum average variable cost curve.
+
+If the unit for calculating price elasticity is decreasing from hundreds to thousands, the price elasticity of supply would decrease.
