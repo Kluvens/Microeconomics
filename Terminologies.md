@@ -132,10 +132,10 @@ Supply is elastic when the price elasticity of supply is greater than 1.
 Supply is perfectly elastic if price elasticity of supply is infinte.
 
 ## Unit Elastic Supply
-Supply is unit elastic when the price elasticity of supply is equal to 11.
+Supply is unit elastic when the price elasticity of supply is equal to 1.
 
 ## Inelastic Supply
-Supply is inelastic when the price elasticity of supply is less than 11.
+Supply is inelastic when the price elasticity of supply is less than 1.
 
 ## Perfectly Inelastic Supply
 Supply is perfectly inelastic if price elasticity of supply is zero.
@@ -146,6 +146,13 @@ factors that could change the elasticity of supply:
 2. factors mobility
 3. inventories/excess capacity
 4. time horizon
+
+## Determinants of Price Elasticity of Demand
+factors that could change the elasticity of demand:
+1. availability of substitutes (increase)
+2. if the good is a luxury or a necessity
+3. the proportion of income spent on the good (sensitive for people belonging to low-income level groups)
+4. how much time has elapsed since the time the price changed (the elasticity for a shorter time period is always low or it can even inelastic)
 
 ## Inventory
 The term invntory refers to the raw materials used in production as well as the goods produced that are available for sale.
