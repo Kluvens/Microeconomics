@@ -1,3 +1,6 @@
+## Unanswered
+1. page 10 Quiz_Ch2_Supply Elasticity Determinants4
+
 ## Chapter 1
 Absolute advantage: carry activities with the lowest amount of resources
 
@@ -25,8 +28,53 @@ The low-hanging fruit principle states that in the process of increasing the pro
 The cost benefit principle states that an action should be taken if the marginal benefit is greater than or equal to the marginal cost.
 This applies to both producers and consumers.
 
-Firm in perfect competition profit maximise by producing a quantity where P = MC.
+Firm in perfect competition profit maximise by producing a quantity where P = MC (marginal revenue equals marginal cost).
 Profit can be calculated as quantity*(price-average total cost).
+
+A firm in a perfectly competitive market will earn 0 economic profit if the price is equal to its minimum average total cost.
+The marginal cost curve crosses the average total cost curve at its minimum.
 
 A market consists of all the buyers and sellers who are willing to transact a good.
 The location of the market is irrelevant in defining the market.
+
+1. TC = FC + VC
+2. TC = ATC * Q
+3. VC = AVC * Q
+4. MC = change in TC/change in Q
+5. Revenue = P * Q
+
+The economic surplus of a certain action is the difference between the marginal benefit and the marginal cost of taking that action.
+Using the cost-benefit principle, an agent should take the action as long as the economic surplus is greater than or equal to 0.
+
+The horizontal interpretation is where you start with a price along the vertical axis and move horizontally, increasing quantity until you hit the supply curve.
+The horizontal interpretation of the supply curve indicates the number of units a producer is willing to supply at a specific price.
+
+The law of supply is the microeconomic law that states that, all other factors being equal, as the price of a good or service increases, the quantity of goods or services that suppliers offer will increase, and vice versa.
+
+The marginal cost of producing a certain unit of a given good captures the opportunity cost of producing that unit.
+
+We define the marginal cost of producing a certain unit of a given good as the extra cost of producing that unit.
+
+A firm will operate in the short run as long as the market price is greater than or equal to its average variable cost.
+However, the firm will exit the market in the long run if the market price is less than its average total cost at the profit-maximising quantity.
+
+In perfect competition, producers and consumers are price takers, meaning they don't have the power to influence market prices.
+Any consumer would fail to acquire the good if he were to suggest a lower price.
+We also assume that goods are homogenous, meaning that all goods in a single market are identical.
+Goods are excludable and rival.
+The suppliers and the consumers are perfectly informed regarding the characteristics of the good.
+There are no externalities.
+Suppilers are free to enter and exit the market.
+
+The producer reservation price is the minimum price a producer is willing to accept offer a certain good or service.
+
+Quantity supplied by a producer is the quantity of the given good or service which will maximise the supplier’s profit at a given market price.
+
+When a firm produces a quantity such that the average variable cost is minimized, 
+the marginal cost equals the average variable cost.
+The marginal cost curve crosses the average variable and average total cost curves at their minimum.
+
+Short run denotes a period of time during which at least one of the factors of production is fixed.
+The long run denotes a period of time during which all factors of production are variable.
+
+The short-run supply curve for a profit maximising firm in a perfectly competitive market is the portion of the firm’s marginal cost curve that lies above the minimum average variable cost curve.
