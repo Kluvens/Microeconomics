@@ -100,3 +100,50 @@ Factors that can increase the elasticity of demand:
 2. a narrowing of the definition of the good
 3. an increase in the income share of the good
 4. an increase in the time horizon
+
+The quantity demanded represents the quantity of a given good or service that maximizes the utility experienced by the individual consuming it.
+
+Utility is a tool economists used to measure the satisfaction consumers derive from consuming a good.
+
+## Chapter 4
+A shortage means that quantity demanded exceeds the quantity supplied.
+
+The invisible hand principle holds only if the market is perfectly competitive.
+
+When a perfectly competitive market has reached its equilibrium, the total economic surplus is maximised.
+
+Long run equilibrium is Pareto Efficient, and all possible surplus is captured by consumers and producers.
+
+In the long run, the equilibrium price equals the minimum average total cost.
+At this price, firms make exactly 0 economic profit.
+
+The long-run supply curve is perfectly elastic.
+In the short run, price fluctuations will occur, and firms will enter/exit the market given the change in profit.
+In the long run, the price is stable at the minimum of the average total cost curve.
+
+The market equilibrium outcome is the most efficient possible allocation because at the market equilibrium price, anyone who values a good more than the marginal cost required to produce it will be able to consume it.
+
+In a perfectly competitive market, the market demand curve is a measure of the reservation price of the consumer purchasing the last unit at a given quantity.
+
+When a market is in equilibrium the quantity supplied equals the quantity demanded.
+There's neither excess supply nor excess demand.
+
+A situation is Pareto efficient if it is possible to make any individual better off without making at least one other individual worse off.
+Pareto efficient outcomes maximise total surplus, but the relative distribution of this surplus will not impact whether the outcome itself is Pareto efficient.
+
+A Pareto improving transaction is one in which no party is made worse off, and at least one party’s surplus increases.
+Pareto improving transactions are only possible if the original outcome does not maximise total surplus, so it is impossible to construct a pareto improving transaction at the competitive market equilibrium which is pareto efficient.
+
+The competitive market equilibrium is Pareto efficient because anything other than they market equilibrium outcome would results in less total surplus, so
+someone must be worse off.
+
+## Chapter 5
+A binding price ceiling is a maximum allowable price that is below that market equilibrium price.
+Consumers find the good more affordable and want to demand more while suppliers find it more costly to produce and will supply less, resulting in an excess demand.
+
+Originally, the supply curve is P = 4 + Q.
+Applying a $3 per unit subsidy to pencil producers, the S-SUBSIDY function becomes P = 1 + Q to represent the fall in marginal cost of production.
+
+The effect of the price floor will depend on whether it is binding.
+A binding price floor is a minimum allowable price that is set above the competitive market equilibrium price, so that the market price cannot converge to its natural equilibrium where quantity supplied is equal to quantity demanded.
+On the other hand, if the price floor is set below the competitive market equilibrium price, then it will have no effect whatsoever.
