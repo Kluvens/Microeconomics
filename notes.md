@@ -1,6 +1,6 @@
 ## Unanswered
-1. page 10 Quiz_Ch2_Supply Elasticity Determinants4
-2. page 16 Quiz_Ch3_Measuring Elasticity
+2. page 16 Quiz_Ch3_Optimal Consumption2
+3. page 20 Quiz_Ch4_Playconomics Graph Analysis1
 
 ## Chapter 1
 Absolute advantage: carry activities with the lowest amount of resources
@@ -105,6 +105,12 @@ The quantity demanded represents the quantity of a given good or service that ma
 
 Utility is a tool economists used to measure the satisfaction consumers derive from consuming a good.
 
+The income effect captures the changes in the quantity demanded of a given good following a change in the consumer's purchaing poswer.
+The substitution effect captures the change in the quantity demanded of a given good following a change in its relative price.
+
+The vertical interpretation of the demand curve starting from a certain quantity and find the associated price on the demand curve.
+The price you found indicates the maximum amount of money the consumer is willing to pay for the marginal unit.
+
 ## Chapter 4
 A shortage means that quantity demanded exceeds the quantity supplied.
 
@@ -147,3 +153,7 @@ Applying a $3 per unit subsidy to pencil producers, the S-SUBSIDY function becom
 The effect of the price floor will depend on whether it is binding.
 A binding price floor is a minimum allowable price that is set above the competitive market equilibrium price, so that the market price cannot converge to its natural equilibrium where quantity supplied is equal to quantity demanded.
 On the other hand, if the price floor is set below the competitive market equilibrium price, then it will have no effect whatsoever.
+
+Assuming perfectly competitive markets, the supply and demand curves measure the marginal cost of producing the product and the consumers' reservation price.
+
+If supply is perfectly inelastic, producers will bear the entire tax burden, allowing consumers to see no change in the price they pay following the imposition of the tax.
