@@ -283,6 +283,8 @@ The consumer surplus would decrease by area H+I+J+K, and producer surplus would 
 
 The pink areas are deadweight losses.
 
+The total surplus under the tariff will be lower relative to free trade.
+
 ## Deadweight Loss
 It is a cost to society created by market inefficiently, which occurs when supply and demand are out of equilibrium.
 
@@ -298,6 +300,18 @@ The areas of surplus affected are the same as tariff.
 However, the revenue earned by the government now would flow to the importing agents.
 
 The World Trade Organization (WTO) has asked its members to convert their trade restrictions from quotas to tariffs because there is less transparency in how the surplus from a quota is distributed.
+
+![image](https://user-images.githubusercontent.com/95273765/202887429-89b64342-ce83-4516-b229-ceaa7bf0da79.png)
+
+The consumer surplus would be H + I + J + K.
+
+![image](https://user-images.githubusercontent.com/95273765/202887456-a229603f-0b42-411d-8e11-109a5fd17140.png)
+
+The domestic producer surplus is H.
+
+![image](https://user-images.githubusercontent.com/95273765/202887493-d2b5c92f-e9d8-4568-815e-14e661b01d71.png)
+
+J is bonus for agents.
 
 ## Price Makers
 It is a seller that has enough market and pricing power to influence prices within the market.
