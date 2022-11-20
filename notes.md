@@ -1,6 +1,7 @@
 ## Unanswered
 2. page 16 Quiz_Ch3_Optimal Consumption2
 3. page 20 Quiz_Ch4_Playconomics Graph Analysis1
+4. page 23 Quiz_Ch5_Price Floor on Wool
 
 ## Chapter 1
 Absolute advantage: carry activities with the lowest amount of resources
@@ -157,3 +158,12 @@ On the other hand, if the price floor is set below the competitive market equili
 Assuming perfectly competitive markets, the supply and demand curves measure the marginal cost of producing the product and the consumers' reservation price.
 
 If supply is perfectly inelastic, producers will bear the entire tax burden, allowing consumers to see no change in the price they pay following the imposition of the tax.
+
+When the supply curve is perfectly elastic or when demand is perfectly inelastic, the burden of tax falls entirely on consumers.
+
+It does not matter whether the tax is levied on producers or consumers.
+It is not important who ultimately pays the tax to the government.
+What is important in determining who bears the cost of taxation is the relative responsiveness of demand and supply to changes in price.
+
+The deadweight loss is the loss in economic surplus due to the fact that the perfectly competitive market is prevented from reaching the equilibrium price and quantity where society's marginal benefit equals society's marginal cost.
+The supply and demand curves capture the reservation price of buyers and sellers so that the market equilibrium the consumers' reservation price of the marginal unit equals the producers' reservation price of the marginal unit and the quantity demanded equals the quantity supplied at the market equilibrium.
