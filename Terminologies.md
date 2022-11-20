@@ -145,7 +145,7 @@ factors that could change the elasticity of supply:
 1. availability of raw materials
 2. factors mobility
 3. inventories/excess capacity
-4. time horizon
+4. time horizon (longer time horizon increases the price elasticity)
 
 ## Determinants of Price Elasticity of Demand
 factors that could change the elasticity of demand:
