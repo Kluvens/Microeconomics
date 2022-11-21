@@ -252,9 +252,17 @@ These gains from trade come from international consumers who have a relatively h
 
 The pink area is the increase of total surplus.
 
+Consumers lose areas B and C at this higher price and cede it to the domestic producers. (consumer surplus decrease by B + C)
+
+Domestic producers also claim area D by exporting to the international market – these are the gains from trade. (producer surplus increase by B + C + D)
+
 ![image](https://user-images.githubusercontent.com/95273765/201504413-64efdf29-a786-4e18-989e-4937b2565389.png)
 
 This pink area also indicates the gains from trade (increase of total surplus).
+
+Producers lose area B to consumers at this lower price. (producer surplus decrease by B)
+
+Additionally, consumers receive areas C and D by having access to an international market from where they can buy more at a lower price – these are the gains from trade. (consumer surplus increase by B + C + D)
 
 ## Winners and Losers from International Trade
 Domestic consumers lose surplus when their country starts to export the good in question and domestic producers lose surplus when their country starts to import.
