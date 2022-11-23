@@ -523,6 +523,14 @@ There are four different types of externalities:
 - negative consumption
 - negative production
 
+- Private market participants do not include the marginal external benefits/costs in their transaction choices, resulting in a private quantity that is different from the social optimum.
+- In large markets, private negotiation is no longer possible and government intervention is necessary to achieve the social optimum.
+- No transaction costs are a necessary condition for the Coase Theorem.
+- Public goods can be interpreted as an extreme case of a positive externality, as they represent a non-excludable external benefit that is non-rivalrous.
+
+If the production of a good generates a positive externality, a perfectly competitive market will tends to produce too little of the good.
+The social demand curve will be above the right of the private demand curve as it includes the marginal external benefit.
+
 ## Positive Consumption Externality
 It represents a benefit accrued to someone who is not involved in the consumption of a given good.
 
@@ -538,6 +546,8 @@ If trade in an externality is possible and there are no transaction costs, barga
 
 ## Negative Production Externality
 It represents a cost incurred by someone who is not involved in the production of a given good.
+
+A tax equal to the marginal external cost would shift the private supply curve to left to the point where the new private supply curve is identical to the social supply curve.
 
 Examples of negative production externality:
 1. harmful production activities - inadequate technologies can impose pollution
@@ -588,6 +598,7 @@ Impure public goods represent goods that are non-rivalrous and non-excludable on
 
 ## Marginal Social Benefit
 The marginal Social Benefit is the vertical sum of the individual marginal benefits.
+As public goods are non-rival, so the same unit can be enjoyed by multiple consumers.
 
 ## Samuelson Condition
 The samuelson condition states that the efficient quantity of a public good is found by setting the sum of the individual marginal benefits equal to the marginal cost.
@@ -604,6 +615,8 @@ Lindahl Prices imply that each individual pays for the provision of a public goo
 
 ## Public Goods and Externalities
 A public good is an extreme case of positive externality.
+
+The presence of pubic goods is an important reason for government intervention in markets.
 
 Like with a positive externality, no one can be excluded from benefiting from the good.
 By extreme case, we mean that, unlike a standard externality, the benefit accrued to those who enjoy the public good does not depend on who is providing it; indeed, this is another way of defining non-rivalry.
@@ -641,6 +654,17 @@ market concentration is a function of the number of firms and their respective s
 
 ## Normal Profit
 Normal profit is an economic term that refers to a situation where the total revenues of a company are equal to the total costs in a perfectly competitive market.
+
+## Under-provision
+To provide less than is necessary
+
+## Aggregate demand curve
+the aggregate demand curve for a public good is constructed by adding all consumers' reservation prices for each quantity.
+Graphically, this will be a vertical summation.
+
+For non-vivalrous and non-excludable goods, we vertically sum the individual demand curves to derive the aggregate demand curve. These are public goods.
+
+For rivalrous and excludable goods, we horizontally sum the individual demand curves to derive the aggregate demand curve. These are private goods.
 
 ## Formulas
 Marginal Cost = change of Total Cost / change of Total Quantity
