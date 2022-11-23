@@ -2,6 +2,7 @@
 2. page 16 Quiz_Ch3_Optimal Consumption2
 3. page 20 Quiz_Ch4_Playconomics Graph Analysis1
 4. page 23 Quiz_Ch5_Price Floor on Wool
+5. page 25 Quiz_Ch6_Effect of a Quota2
 
 ## Chapter 1
 Absolute advantage: carry activities with the lowest amount of resources
