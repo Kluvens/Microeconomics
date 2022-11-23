@@ -293,6 +293,8 @@ The pink areas are deadweight losses.
 
 The total surplus under the tariff will be lower relative to free trade.
 
+The tariff will have no effect on the market if the world price is higher than the domestic price.
+
 ## Deadweight Loss
 It is a cost to society created by market inefficiently, which occurs when supply and demand are out of equilibrium.
 
@@ -321,6 +323,15 @@ The domestic producer surplus is H.
 
 J is bonus for agents.
 
+The implementation of a binding quota reduces the quantity of imports into a domestic economy.
+This invites some domestic producers back into the market and raises prices as supply has decreased relative to an open economy without intervention.
+Therefore, the surplus of domestic producers increases.
+However, the increased price means consumers with lower reservation prices now exit the market leading to deadweight loss.
+THe replacement of international producers who were able to sell the world price with domestic producers who are not is another cause of deadwight loss.
+This means that total surplus under a binding quota is lower than were there no government interventions.
+
+The losers of quota are domestic consumers.
+
 ## Price Makers
 It is a seller that has enough market and pricing power to influence prices within the market.
 In such a case, market and pricing power is determined by the ability of a business to change the prices of products and services effectively.
@@ -329,6 +340,9 @@ In such a case, market and pricing power is determined by the ability of a busin
 A price taker is an individual or company that must accept prevailing prices in a market, lacking the market share to influence market price on its own.
 
 Due to market competition, most producers are also price-takers.
+
+## Small Open Economy
+A small open economy is an economy that participates in international markets for goods and services, but its production or consumption is small enough compared to the rest of the world that its supply or demand does not affect the world price.
 
 ## Market Power
 A firm has market power if it has the ability to set its own price.
