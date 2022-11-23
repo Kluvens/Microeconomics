@@ -480,13 +480,20 @@ it is a type of game where firms might decide not to cooperate even though doing
 
 Both players may have the same dominant strategy.
 
-## Cartel Game
+## Cartel Game (prisoner's dilemma)
 A cartel is aimed at increasing the profit of the cartel members by reducing competition in the market.
 A cartel agreement achieves this objective by controlling prices or by preventing new competitors from entering the market.
 
 Usually cartel is illegal and is prohibited under competition law - 
 a law that is intended to foster market competition by regulating anti-competitive conduct by firms.
 The final objective of this type of legislation is to ensure that consumers are charged the lowest possible prices.
+
+A cartel is aimed at increasing the profit of the cartel members by reducing competition in the market.
+A cartel agreement achieves this objective by controlling prices by preventing new competitors from entering the market.
+
+In a typical cartel game, two firms decide whether to cut prices or not.
+
+Both of them have a dominent strategy.
 
 ## Anti-trust
 antitrust refers to the regulation of the concentration of economic power, particularly in regard to monopolies and other anticompetitive practices.
