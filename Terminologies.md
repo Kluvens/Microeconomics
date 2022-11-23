@@ -404,6 +404,8 @@ Also called the network effect, is the phenomenon by which the value or utility 
 ## Natural Monopoly
 A natural monopoly denotes a monopoly that occurs because of increasing returns to scale.
 
+A utility supplier is the most likely to be a natural monopoly as they require costly infrastructure to operate and therefore feature increasing returns to scale.
+
 ![image](https://user-images.githubusercontent.com/95273765/201508023-f440ce3e-7852-4d5d-84c6-bb75da0b1ec0.png)
 
 ## Monopoly
