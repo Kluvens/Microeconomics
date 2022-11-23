@@ -394,6 +394,10 @@ Some major barriers to entry:
 ## Increasing Returns to Scale
 There are increasing returns to scale when the average total cost of producing a certain good decreases with the amount of the good produced.
 
+This occurs because a single firm producing a large quantity of the good can do so more efficiently than a large number of firms each producing small quantities.
+
+Increasing returns of scale exist when the average total cost of producing a certain good decreases with the amount of the good produced.
+
 ## Network Economies
 Also called the network effect, is the phenomenon by which the value or utility a user derives from a good or service depends on the number of users of compatible products.
 
@@ -419,6 +423,10 @@ The monopolist maximizes profit by equating marginal revenue with marginal cost.
 
 ![image](https://user-images.githubusercontent.com/95273765/201509041-fca113cc-4130-4ec2-a9ff-71a716fe324d.png)
 
+To maximise total surplus, the monopolist must continue to supply as long as the price exceeds the marginal cost. (when price = marginal cost).
+
+By decreasing the price slightly, they will sell a larger quantity.
+
 ## Competition Law
 Competition Law denotes laws intended to foster market competition by regulating the anti-competitive conduct of firms.
 
@@ -436,6 +444,8 @@ A firm’s output is said to be Allocatively Inefficient if the price asked for 
 ## First Degree Price Discrimination
 First degree price discrimination describes a situation in which the monopolist knows the reservation price of each consumer and is able to charge each consumer his marginal benefit.
 
+The monopolist is the one who accrued all the surplus available in the market.
+
 ## Reservation Price
 it is the minimum amount that a seller will accept as the winning bid.
 Alternatively, it is less commonly known as the highest price a buyer is willing to pay for a good or service.
@@ -449,6 +459,9 @@ For example, a theater may divide moviegoers into seniors, adults, and children,
 
 ## Oligopoly
 oligopoly markets are markets dominated by a small number of suppliers.
+
+## Oligopoly Markets
+Profit-maximising firms operating in an oligopolistic market engage in strategic interactions, and each firm's optimal behaviour depends on actions of the other firms in the market.
 
 ## Game Theory
 it is a branch of applied mathematics that provides tools for analyzing situations in which parties, called players, make decisions that are interdependent.
