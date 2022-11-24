@@ -321,7 +321,7 @@ The domestic producer surplus is H.
 
 ![image](https://user-images.githubusercontent.com/95273765/202887493-d2b5c92f-e9d8-4568-815e-14e661b01d71.png)
 
-J is bonus for agents.
+J is bonus for agents and loss of consumer surplus.
 
 The implementation of a binding quota reduces the quantity of imports into a domestic economy.
 This invites some domestic producers back into the market and raises prices as supply has decreased relative to an open economy without intervention.
@@ -428,6 +428,11 @@ The monopolist maximizes profit by equating marginal revenue with marginal cost.
 To maximise total surplus, the monopolist must continue to supply as long as the price exceeds the marginal cost. (when price = marginal cost).
 
 By decreasing the price slightly, they will sell a larger quantity.
+
+The socially optimal price and quantity occurs at the point where price is equal to marginal cost.
+
+The quantity produced by a perfectly price-discriminating monopolist will be identical to the socically efficient quantity.
+In first degree price discrimination, the monopolist will continue to sell to consumers as long as their reservation price is greater than or equal to the monopolist's marginal cost.
 
 ## Competition Law
 Competition Law denotes laws intended to foster market competition by regulating the anti-competitive conduct of firms.
