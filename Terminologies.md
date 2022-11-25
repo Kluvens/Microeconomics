@@ -160,6 +160,12 @@ The term invntory refers to the raw materials used in production as well as the 
 ## Utility
 Utility denotes the satisfaction that an individual derives from consuming a given good or taking a certain action. It is measured in utils per unit of time.
 
+Cost-benefit principle:
+- marginal benefit >= marginal cost
+- in order to continue consuming a good, maginal benefit of consuming this good should be greater than or equal to the marginal cost of consuming this good
+- that is, the marginal benefit of consuming this good should be greater than or equal to the marginal benefit of consuming another good
+- that is, the marginal utilities/prices should be greater than or equal to the marginal utilities of consuming another one/prices
+
 ## Decreasing Marginal Utility
 Decreasing Marginal Utility implies that the utility from consuming an extra unit of a given good decreases with the number of units that have been previously consumed.
 
@@ -235,6 +241,8 @@ Governments often set taxes to improve the distribution of income and opportunit
 A subsidy or government incentive is a form of financial aid or support extended to an economic sector (business, or individual) generally with the aim of promoting economic and social policy.
 
 ![image](https://user-images.githubusercontent.com/95273765/201519328-551eead3-892b-4ea7-8e3a-b6ba05d9dae7.png)
+
+difference between two equilibrium quantities times the subsity amount / 2.
 
 ## Closed Economy
 it is an economy that does not engage in international trade.
@@ -319,6 +327,8 @@ The consumer surplus would be H + I + J + K.
 
 The domestic producer surplus is H.
 
+And area I is the deadweight loss due to consumers buying from relatively expensive domestic producers.
+
 ![image](https://user-images.githubusercontent.com/95273765/202887493-d2b5c92f-e9d8-4568-815e-14e661b01d71.png)
 
 J is bonus for agents and loss of consumer surplus.
@@ -331,6 +341,8 @@ THe replacement of international producers who were able to sell the world price
 This means that total surplus under a binding quota is lower than were there no government interventions.
 
 The losers of quota are domestic consumers.
+
+The total surplus under the binding quota will be lower relative to free trade.
 
 ## Price Makers
 It is a seller that has enough market and pricing power to influence prices within the market.
@@ -362,6 +374,8 @@ There are three main forms of imperfectly competitive markets:
 ## Monopoly
 There is only one firm in the market. Hence, the firm’s individual demand curve coincides with the market demand curve. 
 One of the most famous example of monopoly is Microsoft and its most notorious operating system Windows, which is essentially the only operating system in the whole market for personal computers.
+
+A monopoly supplier o a good produces a socially inefficient quantity of the good because it charges a price above marginal cost, preventing some trades that would increase total surplus.
 
 ## Monopolistic Competition
 There is a large number of firms, each producing a slightly differentiated product. One example is the restaurant industry. 
@@ -452,6 +466,13 @@ A firm’s output is said to be Allocatively Inefficient if the price asked for 
 First degree price discrimination describes a situation in which the monopolist knows the reservation price of each consumer and is able to charge each consumer his marginal benefit.
 
 The monopolist is the one who accrued all the surplus available in the market.
+
+## Economic Benefits of Price Discrimination
+Price discrimination sways the balance of market power in favour of monopolists because it allows them to approach their profit maximisation with more information.
+
+Even though consumer surplus may decrease when monopolists engage in price discrimination, the increase in producer surplus will more than make up for it.
+So, it will increase the total surplus.
+By applying the price discrimination, all consumer surplus would be taken by the monopolist.
 
 ## Reservation Price
 it is the minimum amount that a seller will accept as the winning bid.
